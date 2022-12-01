@@ -6,10 +6,11 @@ What is the SIMATIC AX Open Source Community?
 
 It is a platform where you find some useful ST examples for SIMATIC AX like:
 
-- ST libraries for usage in your own projects and idea creation. [overview](https://github.com/simatic-ax/.github-private/blob/main/doc/overview/example-libraries.md)
-- Application examples for SIMATIC AX. [overview](https://github.com/simatic-ax/.github-private/blob/main/doc/overview/appl-example.md)
-- Tutorials for self-study. [overview](https://github.com/simatic-ax/.github-private/blob/main/doc/overview/tutorials.md)
-- Project templates. [overview](https://github.com/simatic-ax/.github-private/blob/main/doc/overview/templates.md)
+- [**Application Examples**] for SIMATIC AX. [overview](https://github.com/simatic-ax/.github/blob/main/docs/overview/appl-example.md)
+- [**Code Snippets**] that can be reused in AX Code. [overview](https://github.com/simatic-ax/.github/blob/main/docs/overview/code-snippets.md)
+- [**Example Libraries**] for usage in your own projects and idea creation. [overview](https://github.com/simatic-ax/.github/blob/main/docs/overview/example-libraries.md)
+- [**Project Templates**] for a head-start in content creation. [overview](https://github.com/simatic-ax/.github/blob/main/docs/overview/templates.md)
+- [**Tutorials**] for self-study. [overview](https://github.com/simatic-ax/.github/blob/main/docs/overview/tutorials.md)
 
 But wait, there is more:
 
@@ -20,5 +21,5 @@ But wait, there is more:
 - Combine OT best practices with IT tools and workflows
 - Platform for both customers and colleagues alike
 - Professional maintenance by our Application Engineers as well as Software Developers
-
+ 
 > Note: Since SIMATIC AX is not released to the public yet, the Community has some limitations regarding the visibility/accessibility, like private repositories that are only visible for members with only reading access by default.
