@@ -21,8 +21,9 @@ But wait, there is more:
 - Combine OT best practices with IT tools and workflows
 - Platform for both customers and colleagues alike
 - Professional maintenance by our Application Engineers as well as Software Developers
- 
+
 > Note: The SIMATIC AX community content has limitations regarding the visibility/accessibility.
+>
 > - public users can only see/read public repositories
 > - community member in addition will see private repositories but with read access only [default]
-> - community contributer are granted write access as well 
+> - community contributer are granted write access as well
